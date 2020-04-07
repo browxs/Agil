@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Agil.Repository.Migrations
 {
     [DbContext(typeof(AgilContext))]
-    [Migration("20200406144111_init")]
+    [Migration("20200407130427_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
